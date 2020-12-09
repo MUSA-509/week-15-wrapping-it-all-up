@@ -17,7 +17,7 @@
       * Keeping project going for portfolio, etc.?
         1. Make a spiffy GitHub repo for storing your work!
         2. Create an animated GIF or video walkthrough of the site. I love the GIF maker [`licecap`](https://www.cockos.com/licecap/)
-   3. Find-a-time for Final Project Presentations: <https://doodle.com/poll/wacdyb3f7srv9k5b>
+   3. Find-a-time for Final Project Presentations: <https://doodle.com/poll/v97ziercdbudc3z2>
    4. How are final projects coming?
 2. Job responsibilities at a tech company, where I stand within them
 3. Resume Advice
